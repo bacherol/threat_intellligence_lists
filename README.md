@@ -1,4 +1,4 @@
-# Threat-Intelligence-Lists
+# Threat Intelligence Lists
 
 Repository with IoCs from honeypots around the world.<br>
 For real-time info, please access https://tintel.kcane.com.br
